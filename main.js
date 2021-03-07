@@ -1,7 +1,7 @@
 const config = {
   cUrl: "https://api.countrystatecity.in/v1/countries",
   cKey: "R3NUdUE3RTdlbWt5ckF3WEJLMkFwQ0VJWDNUaThLUGdrU09VZEhuaA==",
-  wUrl: "http://api.openweathermap.org/data/2.5/",
+  wUrl: "https://api.openweathermap.org/data/2.5/",
   wKey: "b3d134b205a02dd2324b79cea375c67e",
 };
 
